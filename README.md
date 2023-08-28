@@ -2,10 +2,10 @@
 
 A quick-start project that shows how to customize the layout, data labels, and levels of the React TreeMap component. It includes a code snippet for displaying the tree map items as levels in a group.
  
-Refer to the following documentation to learn about the React Dropdown Tree component: 
+Refer to the following documentation to learn about the React TreeMap component: 
 https://ej2.syncfusion.com/react/documentation/treemap/levels
 
-Check out this online example of the React Dropdown Tree component:
+Check out this online example of the React TreeMap  component:
 https://ej2.syncfusion.com/react/demos/#/material/treemap/customization
 
 ## Project prerequisites
